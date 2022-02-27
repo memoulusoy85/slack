@@ -2,5 +2,9 @@ package day_1;
 
 public class Login {
 
-    //new class login
+
+    public static void main(String[] args) {
+
+    }
+
 }

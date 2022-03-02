@@ -9,8 +9,7 @@ public class CreateChannel {
         int first = 10;  // cahnged from github 
         int second = 20;
 
-        int first = 10;  // cahnged from intellij
-        int second = 20;
+
 
     }
 }

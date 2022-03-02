@@ -6,5 +6,8 @@ public class CreateChannel {
 
         System.out.println("user is able create channel");
 
+        int first = 10;  // cahnged from intellij
+        int second = 20;
+
     }
 }
